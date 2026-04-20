@@ -2,7 +2,6 @@
 
 **Nome:** Igor Brian  
 **Turma:** SERRATEC — Turma 37  
-**Repositório:** Resolução individual dos exercícios práticos da disciplina de POO
 
 ---
 
@@ -17,7 +16,7 @@ Migração da lógica para OOP com atributos `numero`, `titular` e `saldo`.
 Regra: bônus de boas-vindas de R$ 50,00 aplicado no construtor.
 
 ### Exercício 3 — E-commerce
-Modelagem de `Cliente → Pedido → ItemPedido`.  
+Modelagem de `Cliente -> Pedido -> ItemPedido`.  
 Regra: frete grátis para pedidos acima de R$ 250,00, senão taxa fixa de R$ 25,00.
 
 ### Exercício 4 — Sistema de Veículos
